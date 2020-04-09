@@ -1,0 +1,25 @@
+catatan file yang akan dikerjakan :
+    https://www.youtube.com/watch?v=ImtZ5yENzgE menit ke 03:42:00
+    
+    
+    ☐ kena d vuejs component dimana ketika data true text tidak berubah menjadi unfollow
+
+    setiap ada pembaharauan di env
+    jalankan config:clear, route:clear, config:cache
+
+library yang digunakan :
+    https://packagist.org/packages/intervention/image
+    http://image.intervention.io/
+
+
+pembahasan :
+    ☐ policy https://laravel.com/docs/6.x/authorization#generating-policies
+    ☐ boot https://laravel.com/docs/6.x/eloquent#observers
+
+
+catatan:
+    ☐ jika membuat component vua untuk laravel di folder laravel jalankan npm run watch
+
+
+bug:
+    ☐  fungsi folowing belum jalan nih
